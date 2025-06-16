@@ -1,5 +1,5 @@
 import socketio
-SERVER_URL = 'http://192.168.31.72:5000'
+SERVER_URL = 'http://ipaddress:5000'
 
 
 sio = socketio.Client()
