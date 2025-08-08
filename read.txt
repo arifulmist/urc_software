@@ -1,0 +1,10 @@
+1st. go to d drive ->d:
+2.cd urc25
+3.cd joystick
+4.cd venv
+5.cd Script
+6.activate
+7.(create venv) cd ..
+8 cd..
+9. python app.py tx
+aghe radio master on then mycrousb 
