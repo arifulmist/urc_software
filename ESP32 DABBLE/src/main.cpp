@@ -2,8 +2,8 @@
 #define INCLUDE_GAMEPAD_MODULE
 #include <DabbleESP32.h> 
 
-#define ESP_TX 16  
-#define ESP_RX 17  
+#define ESP_TX 17  
+#define ESP_RX 16  
 #define SERIAL_BAUD 9600  
 
 void setup() {
